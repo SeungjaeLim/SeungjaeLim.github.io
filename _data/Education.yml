@@ -4,9 +4,8 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: KAIST, M.S. Student in School of Computing
     description:
-      - Advisor: Prof. Youngjin Kwon
       - Research on accelerating large models and AI systems
-    date: Sep. 2024 - Current
+    Advisor: Prof. Youngjin Kwondate: Sep. 2024 - OnGoing
   - title: KAIST, B.S. in School of Computing
     description:
       - Minor in School of Electrical Engineering
